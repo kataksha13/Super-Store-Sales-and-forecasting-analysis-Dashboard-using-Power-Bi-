@@ -1,6 +1,6 @@
 # Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-
-##Power BI project — Super Store Sales Dashboard &amp; 15-Day Sales Forecast 📊 This dashboard was built to analyse and visualize retail sales performance using interactive business intelligence techniques in Power BI.
-##🔹 Key Features:
+Power BI project — Super Store Sales Dashboard &amp; 15-Day Sales Forecast 📊 This dashboard was built to analyse and visualize retail sales performance using interactive business intelligence techniques in Power BI.
+🔹 Key Features:
 • Sales, Profit, Quantity & Shipping KPI tracking
 • Sales analysis by Category, Segment, Payment Mode & Sub-Category
 • State-wise sales performance comparison
