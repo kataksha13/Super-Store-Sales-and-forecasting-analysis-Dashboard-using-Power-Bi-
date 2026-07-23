@@ -45,6 +45,16 @@ DASHBOARD LINK: -<a href= https://github.com/kataksha13/Super-Store-Sales-and-fo
 
 Looking forward to exploring more advanced analytics and BI solutions.
 
-## Dashboard 
+## Dashboard
+
+
+<img width="975" height="549" alt="Screenshot 2026-05-14 131435" src="https://github.com/user-attachments/assets/0f2c5894-47d8-4688-a40c-5a7ccb49f11b" />
+
+
+<img width="978" height="550" alt="Screenshot 2026-05-14 131505" src="https://github.com/user-attachments/assets/6939334d-7e46-426d-a2f4-bc8cec756980" />
+
+
+
+
 
 
