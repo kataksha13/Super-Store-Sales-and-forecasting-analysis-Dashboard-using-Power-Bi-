@@ -1,9 +1,9 @@
 # Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-
 Power BI project — Super Store Sales Dashboard &amp; 15-Day Sales Forecast 📊 This dashboard was built to analyse and visualize retail sales performance using interactive business intelligence techniques in Power BI.
 
-DATA SET LINK: https://github.com/kataksha13/Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-/blob/main/SuperStore%20Sales%20DataSet.xlsx
+DATA SET LINK: -<a href = https://github.com/kataksha13/Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-/blob/main/SuperStore%20Sales%20DataSet.xlsx> Super Store sales DataSet</a>
 
-DASHBOARD LINK: https://github.com/kataksha13/Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-/blob/main/dashboardd.pbix
+DASHBOARD LINK: -<a href= https://github.com/kataksha13/Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-/blob/main/dashboardd.pbix> Dashboard </a>
 
 ## Key Features:
 
