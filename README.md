@@ -3,7 +3,7 @@ Power BI project â€” Super Store Sales Dashboard &amp; 15-Day Sales Forecast ðŸ“
 
 DATA SET LINK: https://github.com/kataksha13/Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-/blob/main/SuperStore%20Sales%20DataSet.xlsx
 
-DASHBOARD LINK:
+DASHBOARD LINK: https://github.com/kataksha13/Super-Store-Sales-and-forecasting-analysis-Dashboard-using-Power-Bi-/blob/main/dashboardd.pbix
 
 ## Key Features:
 
